@@ -239,9 +239,9 @@ administration.html
 </html>
 ```
 # OUTPUT:
-![alt text](<../Screenshot 2025-10-06 201536.png>)
-![alt text](<../Screenshot 2025-10-06 201604.png>)
-![alt text](<../Screenshot 2025-10-06 201623.png>)
-![alt text](<../Screenshot 2025-10-06 201637.png>)
+![alt text](<../project/restaurant/static/Screenshot 2025-10-06 201536.png>)
+![alt text](<../project/restaurant/static/Screenshot 2025-10-06 201604.png>)
+![alt text](<../project/restaurant/static/Screenshot 2025-10-06 201623.png>)
+![alt text](<../project/restaurant/static/Screenshot 2025-10-06 201637.png>)
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
