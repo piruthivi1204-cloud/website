@@ -239,9 +239,12 @@ administration.html
 </html>
 ```
 # OUTPUT:
-![alt text](<../project/restaurant/static/Screenshot 2025-10-06 201536.png>)
-![alt text](<../project/restaurant/static/Screenshot 2025-10-06 201604.png>)
-![alt text](<../project/restaurant/static/Screenshot 2025-10-06 201623.png>)
-![alt text](<../project/restaurant/static/Screenshot 2025-10-06 201637.png>)
+<img width="1919" height="788" alt="Screenshot 2025-10-06 201637" src="https://github.com/user-attachments/assets/0a6321ab-2a09-4c74-9aa6-91eb06d87c08" />
+<img width="1892" height="880" alt="Screenshot 2025-10-06 201623" src="https://github.com/user-attachments/assets/46c29729-61c5-459e-9dde-568b163f4e43" />
+<img width="1895" height="878" alt="Screenshot 2025-10-06 201604" src="https://github.com/user-attachments/assets/7f2f2489-2c80-4312-9838-acc7ce719997" />
+
+
+
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
