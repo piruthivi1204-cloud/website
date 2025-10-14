@@ -242,6 +242,8 @@ administration.html
 <img width="1919" height="788" alt="Screenshot 2025-10-06 201637" src="https://github.com/user-attachments/assets/0a6321ab-2a09-4c74-9aa6-91eb06d87c08" />
 <img width="1892" height="880" alt="Screenshot 2025-10-06 201623" src="https://github.com/user-attachments/assets/46c29729-61c5-459e-9dde-568b163f4e43" />
 <img width="1895" height="878" alt="Screenshot 2025-10-06 201604" src="https://github.com/user-attachments/assets/7f2f2489-2c80-4312-9838-acc7ce719997" />
+<img width="1896" height="879" alt="Screenshot 2025-10-06 201536" src="https://github.com/user-attachments/assets/25f3d762-c35f-43f5-ac87-86cd4f9ed702" />
+
 
 
 
